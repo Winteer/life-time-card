@@ -2,8 +2,8 @@ import Script from 'next/script';
 import './globals.css';
 
 export const metadata = {
-  title: '实时基金估值',
-  description: '输入基金编号添加基金，实时显示估值与前10重仓'
+  title: '生命时间卡片',
+  description: '一个基于 React 的生命时间卡片生成器'
 };
 
 export default function RootLayout({ children }) {

@@ -25,8 +25,8 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/winteer/real-time-fund.git
-   cd real-time-fund
+   git clone https://github.com/winteer/life-time-card.git
+   cd life-time-card
    ```
 2. 安装依赖：
 
