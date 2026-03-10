@@ -199,7 +199,7 @@ export default function LifeReceiptGenerator() {
         }
 
         body {
-          font-family: 'Courier New', monospace, '得意黑', sans-serif;
+          font-family: 'Courier New', monospace, 'Smiley Sans', sans-serif;
           background-color: #ffffff;
           color: #000000;
           line-height: 1.6;
@@ -213,8 +213,8 @@ export default function LifeReceiptGenerator() {
         }
 
         @font-face {
-          font-family: '得意黑';
-          src: local('得意黑');
+          font-family: 'Smiley Sans';
+          src: url('/static/SmileySans-Oblique.woff2') format('woff2');
           font-weight: normal;
           font-style: normal;
         }
@@ -386,7 +386,7 @@ export default function LifeReceiptGenerator() {
         .store-subtitle {
           font-size: 0.9rem;
           margin-bottom: 5px;
-          font-family: '得意黑', sans-serif;
+          font-family: 'Smiley Sans', sans-serif;
         }
 
         .store-english {
@@ -417,7 +417,7 @@ export default function LifeReceiptGenerator() {
           margin-bottom: 5px;
           font-size: 1rem;
           padding: 5px 0;
-          font-family: 'Courier New', monospace, '得意黑', sans-serif;
+          font-family: 'Courier New', monospace, 'Smiley Sans', sans-serif;
         }
 
         .receipt-total {
@@ -455,7 +455,7 @@ export default function LifeReceiptGenerator() {
           font-size: 1rem;
           font-style: normal;
           color: #333;
-          font-family: '得意黑', sans-serif;
+          font-family: 'Smiley Sans', sans-serif;
         }
 
 
