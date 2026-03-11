@@ -214,7 +214,7 @@ export default function LifeReceiptGenerator() {
 
         @font-face {
           font-family: '得意黑';
-          src: url('/static/SmileySans-Oblique.woff2') format('woff2');
+          src: url('/life-time-card/static/SmileySans-Oblique.woff2') format('woff2');
           font-weight: normal;
           font-style: normal;
         }
